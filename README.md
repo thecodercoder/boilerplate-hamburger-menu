@@ -4,3 +4,5 @@ This website is a boilerplate example of an accessible hamburger menu, using CSS
 Lock Upgrade plugin by Rick Liruixin](https://github.com/rick-liruixin/body-scroll-lock-upgrade).
 
 A lot of the code is from what I learned from the [Practical Accessibility](https://practical-accessibility.today/) course by [Sara Soueidan](https://sarasoueidan.com/).
+
+[View demo website.](https://cc-hamburger-menu.netlify.app/)
